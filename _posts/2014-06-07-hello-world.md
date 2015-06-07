@@ -3,5 +3,6 @@ layout: post
 title: Hello world
 ---
 
-Replace this post with an introduction to your MapTime meetup! Posts
-are written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+Hello and welcome to Maptime MTL. We are still in the process of setting up our very first **meetup**, so please stay tuned and follow us on Twitter @MaptimeMTL
+
+Cheers! 
